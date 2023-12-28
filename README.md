@@ -8,7 +8,7 @@ A linked list is a linear data structure where elements are stored in nodes, and
 <h2>**Key Differences from Arrays** 🔄</h2>
 
 <h4>**Dynamic Size**:</h4> Unlike arrays, linked lists do not have a fixed size. They can dynamically grow or shrink during runtime.
-<h4><>**Memory Allocation**:</h4> Linked lists use dynamic memory allocation, allowing them to utilize memory more efficiently.
+<h4>**Memory Allocation**:</h4> Linked lists use dynamic memory allocation, allowing them to utilize memory more efficiently.
 <h4>**Insertion/Deletion**:</h4> Inserting or deleting elements in a linked list is more efficient than in an array, especially in the middle.
 
 
@@ -42,6 +42,7 @@ git clone https://github.com/your-username/linked-list.git
 Feel free to explore the code, make modifications, and use it in your projects.
 
 **Contribution Guideline**s 🤝
+
 Contributions are welcome! If you find a bug or have an enhancement in mind, please open an issue or create a pull request.
 
 <h3>**Happy coding**! 🎉</h3>
